@@ -1,0 +1,25 @@
+{
+  "name": "@msmid/legion-td-db",
+  "version": "1.0.0",
+  "description": "JSON database data of Warcraft 3 mod Legion TD Mega (B5)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msmid/legion-td-db.git"
+  },
+  "keywords": [
+    "legion-td",
+    "warcraft3",
+    "data"
+  ],
+  "author": "Martin Smid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msmid/legion-td-db/issues"
+  },
+  "homepage": "https://github.com/msmid/legion-td-db#readme"
+}
